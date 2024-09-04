@@ -1,4 +1,4 @@
-# REST API Development Crash Notes (Python-FlaskAPI)
+# REST API Development Crash Notes (Python-FastAPI)
 
 This notebook is prepared for Mysoly API/Backend session on 04.09.2024
 

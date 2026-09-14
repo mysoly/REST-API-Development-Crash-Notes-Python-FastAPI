@@ -7,9 +7,9 @@ This notebook is prepared for Mysoly API/Backend session on 04.09.2024
 **2. REST API**
 
 &ensp;&ensp;2.1 Sample Public APIs (GET)
-   
+
 &ensp;&ensp;2.2. Status Codes
-   
+
 &ensp;&ensp;2.3 API Requests
 
 **3. POSTMAN**
@@ -17,7 +17,7 @@ This notebook is prepared for Mysoly API/Backend session on 04.09.2024
 **4. FastAPI**
 
 &ensp;&ensp;4.1 Hello World!
-    
+
 &ensp;&ensp;4.2 Endpoints
 
 &ensp;&ensp;4.3. Dynamic Endpoints
@@ -52,6 +52,6 @@ This notebook is prepared for Mysoly API/Backend session on 04.09.2024
 
 &ensp;&ensp;6.6. Running the FastAPI Server with a Secret Key
 
-
+**7. Conclusion**
 
 _Thanks to Ömer Faruk Koran for his valuable contribution_
